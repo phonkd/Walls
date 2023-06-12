@@ -104,7 +104,8 @@ img {
   background-color: transparent;
   border: 0px;
   font-size: 40px;
-  position: fixed;
+  position: absolute;
+  cursor: pointer;
   bottom: 2%;
   right: 2%;
 }
